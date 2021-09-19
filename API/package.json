@@ -1,0 +1,21 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "API Eu na Rede",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "PatricioPedro"
+  },
+  "author": "Patricio Wilder Barros Pedro",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^2.25.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.13"
+  }
+}
